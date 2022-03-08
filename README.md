@@ -43,4 +43,4 @@ Citation
 
 Contact Information:
 --------------------
-Cengiz Avcı - avcice16@itu.edu.tr
+Cengiz Avcı - avcice16@itu.edu.tr 
