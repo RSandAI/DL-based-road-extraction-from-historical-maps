@@ -12,8 +12,8 @@ Outputs
 
 Dataset (Source)
 ---------------------
-Turkey 1:200k Historical Topographic Maps 
-http://digitalarchive.mcmaster.ca/islandora/object/macrepo%3A82339
+[Turkey 1:200k Historical Topographic Maps](http://digitalarchive.mcmaster.ca/islandora/object/macrepo%3A82339)
+
 
 The historical DHK 200 Turkey map used in this study covers a large area of around
 150,000 square km in northwest Turkey, including the regions of Ankara and Bursa.
