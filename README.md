@@ -8,7 +8,7 @@ Framework
 
 Outputs
 ---------------------
-![alt text](ims/1.png)
+![alt text](figures/resnest200e)
 
 
 
