@@ -5,6 +5,13 @@ Framework
 ---------------------
 ![alt text](figures/framework.png)
 
+Weights for Inference 
+---------------------
+[Drive Link](https://drive.google.com/drive/u/0/folders/1zQfCouyg3uVd76KNzYpbvrFJ4DGfUPdp)
+
+Models Comparison
+---------------------
+![alt text](figures/comparison.png)
 
 Outputs
 ---------------------
