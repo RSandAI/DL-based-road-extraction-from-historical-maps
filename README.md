@@ -1,5 +1,5 @@
 # Deep Learning based road extraction from historical maps 
-This repository contains the code for the paper [Deep Learning based road extraction from historical maps]
+This repository contains the code, test patches and weights for the paper [Deep Learning based road extraction from historical maps]
 
 Dataset (Source)
 ---------------------
