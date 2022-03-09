@@ -1,5 +1,20 @@
 # Deep Learning based road extraction from historical maps 
 This repository contains the code for the paper [Deep Learning based road extraction from historical maps]
+Dataset (Source)
+---------------------
+[Turkey 1:200k Historical Topographic Maps](http://digitalarchive.mcmaster.ca/islandora/object/macrepo%3A82339)
+
+The historical DHK 200 Turkey map used in this study covers a large area of around
+150,000 square km in northwest Turkey, including the regions of Ankara and Bursa.
+The DHK 200 Turkey map legends are organized bilingually in accordance with the rest of the World War II German military
+maps [1].
+
+| Model              | No of Parameters | F-1 Score | Weights |
+|:--------------------------:|:------------------:|-------------------------:|-------------------------:|
+|Timm-resnest200e                         | 8 Batch-Size                | **0,564**                      | [Timm-resnest200e.pth](https://drive.google.com/drive/u/0/folders/1zQfCouyg3uVd76KNzYpbvrFJ4DGfUPdp)                   |
+|Inceptionv4                         | 16 Batch-Size                 | 0,525                      | [Inceptionv4.pth](https://drive.google.com/drive/u/0/folders/1zQfCouyg3uVd76KNzYpbvrFJ4DGfUPdp)                 |
+|Densenet201                         | 16 Batch-Size                 | 0,511                     | [Densenet201.pth](https://drive.google.com/drive/u/0/folders/1zQfCouyg3uVd76KNzYpbvrFJ4DGfUPdp)   
+|Resnext50_32x4d                         | 16 Batch-Size                | 0,491                     | [Resnext50_32x4d.pth](https://drive.google.com/drive/u/0/folders/1zQfCouyg3uVd76KNzYpbvrFJ4DGfUPdp)  
 
 Framework
 ---------------------
@@ -17,24 +32,6 @@ Outputs
 ---------------------
 ![alt text](figures/resnest200e.png)
 
-Dataset (Source)
----------------------
-[Turkey 1:200k Historical Topographic Maps](http://digitalarchive.mcmaster.ca/islandora/object/macrepo%3A82339)
-
-
-The historical DHK 200 Turkey map used in this study covers a large area of around
-150,000 square km in northwest Turkey, including the regions of Ankara and Bursa.
-The DHK 200 Turkey map legends are organized bilingually in accordance with the rest of the World War II German military
-maps [1].
-
-
-
-| Model              | No of Parameters | F-1 Score | Weights |
-|:--------------------------:|:------------------:|-------------------------:|-------------------------:|
-|Timm-resnest200e                         | 8 Batch-Size                | **0,564**                      | [yolov4_best.conv.137](https://drive.google.com/file/d/1ed8JjQltaRCQ3ZF2wPNc3tToR1CDP4rX/view?usp=sharing)                  |
-|Inceptionv4                         | 16 Batch-Size                 | 0,525                      | [yolov5_576_best.pt](https://drive.google.com/file/d/1QsLOXON89D2h_ck67YOKrqUsWRl4U_Mj/view?usp=sharing)                 |
-|Densenet201                         | 16 Batch-Size                 | 0,511                     | [yolov5_640_best.pt](https://drive.google.com/file/d/1W3M-mnhyA8i75UCxfddSWQEs8jM-nMom/view?usp=sharing)   
-|Resnext50_32x4d                         | 16 Batch-Size                | 0,491                     | [yolov4_best.conv.137]
 
 
 
