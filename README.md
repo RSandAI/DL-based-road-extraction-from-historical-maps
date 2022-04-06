@@ -1,7 +1,7 @@
 # Deep Learning based road extraction from historical maps 
 This repository contains the code, test patches and weights for the paper [Deep Learning based road extraction from historical maps]
 
-Dataset (Source)
+# Dataset (Source)
 ---------------------
 [Turkey 1:200k Historical Topographic Maps](http://digitalarchive.mcmaster.ca/islandora/object/macrepo%3A82339)
 
@@ -17,15 +17,15 @@ maps [1].
 |Densenet201                         | 16 Batch-Size                 | 0,511                     | [Densenet201.pth](https://drive.google.com/drive/u/0/folders/1zQfCouyg3uVd76KNzYpbvrFJ4DGfUPdp)   
 |Resnext50_32x4d                         | 16 Batch-Size                | 0,491                     | [Resnext50_32x4d.pth](https://drive.google.com/drive/u/0/folders/1zQfCouyg3uVd76KNzYpbvrFJ4DGfUPdp)  
 
-Framework
+# Framework
 ---------------------
 ![alt text](figures/framework.png)
 
-Weights for Inference 
+# Weights for Inference 
 ---------------------
 [Drive Link](https://drive.google.com/drive/u/0/folders/1zQfCouyg3uVd76KNzYpbvrFJ4DGfUPdp)
 
-Models Comparison
+# Models Comparison
 ---------------------
 ![alt text](figures/comparison.png)
 
