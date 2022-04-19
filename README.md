@@ -10,11 +10,15 @@ The historical DHK 200 Turkey map used in this study covers a large area of arou
 The DHK 200 Turkey map legends are organized bilingually in accordance with the rest of the World War II German military
 maps [1].
 
-| Dataset              | IoU | F-1 Score | Precision | Recall | Weights |
+| Model              | No of Parameters | F-1 Score | Weights |
 |:--------------------------:|:------------------:|-------------------------:|-------------------------:|
-|Aksu                         | 89.46               | 94.35  | 94.25 |  94.49                   | [weights](https://drive.google.com/drive/u/0/folders/1zQfCouyg3uVd76KNzYpbvrFJ4DGfUPdp)                   |
-|Kestel                        | 81.64                | 89.65 |89.76     |       89.54           | [weights](https://drive.google.com/drive/u/0/folders/1zQfCouyg3uVd76KNzYpbvrFJ4DGfUPdp)                 |
-|Aksu + Kestel Combined                         | 86.91                 | 92.85 |    92.83  |   92.86             | [weights](https://drive.google.com/drive/u/0/folders/1zQfCouyg3uVd76KNzYpbvrFJ4DGfUPdp)   
+|Timm-resnest200e                         | 8 Batch-Size                | **0,564**                      | [Timm-resnest200e.pth](https://drive.google.com/drive/folders/146HRDz-075PTf-pyUQO-1ZrU4X1UQ5L2)                   |
+|Inceptionv4                         | 16 Batch-Size                 | 0,525                      | [Inceptionv4.pth](https://drive.google.com/drive/folders/146HRDz-075PTf-pyUQO-1ZrU4X1UQ5L2)                 |
+|Densenet201                         | 16 Batch-Size                 | 0,511                     | [Densenet201.pth](https://drive.google.com/drive/folders/146HRDz-075PTf-pyUQO-1ZrU4X1UQ5L2)
+|Timm-resnest200e                         | 8 Batch-Size                | **0,564**                      | [Timm-resnest200e.pth](https://drive.google.com/drive/u/0/folders/1zQfCouyg3uVd76KNzYpbvrFJ4DGfUPdp)                   |
+|Inceptionv4                         | 16 Batch-Size                 | 0,525                      | [Inceptionv4.pth](https://drive.google.com/drive/u/0/folders/1zQfCouyg3uVd76KNzYpbvrFJ4DGfUPdp)                 |
+|Densenet201                         | 16 Batch-Size                 | 0,511                     | [Densenet201.pth](https://drive.google.com/drive/u/0/folders/1zQfCouyg3uVd76KNzYpbvrFJ4DGfUPdp)   
+|Resnext50_32x4d                         | 16 Batch-Size                | 0,491                     | [Resnext50_32x4d.pth](https://drive.google.com/drive/u/0/folders/1zQfCouyg3uVd76KNzYpbvrFJ4DGfUPdp)
 
 # Framework
 ---------------------
