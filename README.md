@@ -15,9 +15,6 @@ maps [1].
 |Timm-resnest200e                         | 8 Batch-Size                | **0,564**                      | [Timm-resnest200e.pth](https://drive.google.com/drive/folders/146HRDz-075PTf-pyUQO-1ZrU4X1UQ5L2)                   |
 |Inceptionv4                         | 16 Batch-Size                 | 0,525                      | [Inceptionv4.pth](https://drive.google.com/drive/folders/146HRDz-075PTf-pyUQO-1ZrU4X1UQ5L2)                 |
 |Densenet201                         | 16 Batch-Size                 | 0,511                     | [Densenet201.pth](https://drive.google.com/drive/folders/146HRDz-075PTf-pyUQO-1ZrU4X1UQ5L2)
-|Timm-resnest200e                         | 8 Batch-Size                | **0,564**                      | [Timm-resnest200e.pth](https://drive.google.com/drive/u/0/folders/1zQfCouyg3uVd76KNzYpbvrFJ4DGfUPdp)                   |
-|Inceptionv4                         | 16 Batch-Size                 | 0,525                      | [Inceptionv4.pth](https://drive.google.com/drive/u/0/folders/1zQfCouyg3uVd76KNzYpbvrFJ4DGfUPdp)                 |
-|Densenet201                         | 16 Batch-Size                 | 0,511                     | [Densenet201.pth](https://drive.google.com/drive/u/0/folders/1zQfCouyg3uVd76KNzYpbvrFJ4DGfUPdp)   
 |Resnext50_32x4d                         | 16 Batch-Size                | 0,491                     | [Resnext50_32x4d.pth](https://drive.google.com/drive/u/0/folders/1zQfCouyg3uVd76KNzYpbvrFJ4DGfUPdp)
 
 # Framework
