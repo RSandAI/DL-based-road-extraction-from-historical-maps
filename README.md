@@ -10,7 +10,7 @@ The historical DHK 200 Turkey map used in this study covers a large area of arou
 The DHK 200 Turkey map legends are organized bilingually in accordance with the rest of the World War II German military
 maps [1].
 
-| Model              | No of Parameters | F-1 Score | Weights |
+| Model              | Batch-Size | F-1 Score | Weights |
 |:--------------------------:|:------------------:|-------------------------:|-------------------------:|
 |Timm-resnest200e(U-Net++)                        | 16 Batch-Size                | **0,577**                      | [Timm-resnest200e.pth](https://drive.google.com/drive/folders/146HRDz-075PTf-pyUQO-1ZrU4X1UQ5L2)                   |               
 |Timm-resnest200e(MA-Net)                         | 16 Batch-Size                 | 0,525                      | [MA-Net timm-resnest200e.pth](https://drive.google.com/drive/folders/146HRDz-075PTf-pyUQO-1ZrU4X1UQ5L2) 
