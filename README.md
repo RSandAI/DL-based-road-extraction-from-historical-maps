@@ -12,10 +12,14 @@ maps [1].
 
 | Model              | No of Parameters | F-1 Score | Weights |
 |:--------------------------:|:------------------:|-------------------------:|-------------------------:|
-|Timm-resnest200e                         | 8 Batch-Size                | **0,564**                      | [Timm-resnest200e.pth](https://drive.google.com/drive/folders/146HRDz-075PTf-pyUQO-1ZrU4X1UQ5L2)                   |
-|Inceptionv4                         | 16 Batch-Size                 | 0,525                      | [Inceptionv4.pth](https://drive.google.com/drive/folders/146HRDz-075PTf-pyUQO-1ZrU4X1UQ5L2)                 |
-|Densenet201                         | 16 Batch-Size                 | 0,511                     | [Densenet201.pth](https://drive.google.com/drive/folders/146HRDz-075PTf-pyUQO-1ZrU4X1UQ5L2)
-|Resnext50_32x4d                         | 16 Batch-Size                | 0,491                     | [Resnext50_32x4d.pth](https://drive.google.com/drive/u/0/folders/1zQfCouyg3uVd76KNzYpbvrFJ4DGfUPdp)
+|Timm-resnest200e(U-Net++)                        | 16 Batch-Size                | **0,577**                      | [Timm-resnest200e.pth](https://drive.google.com/drive/folders/146HRDz-075PTf-pyUQO-1ZrU4X1UQ5L2)                   |
+
+(https://drive.google.com/drive/folders/146HRDz-075PTf-pyUQO-1ZrU4X1UQ5L2)                   |
+|Timm-resnest200e(MA-Net)                         | 16 Batch-Size                 | 0,525                      | [MA-Net timm-resnest200e.pth](https://drive.google.com/drive/folders/146HRDz-
+
+|Inceptionv4(U-Net++)                          | 16 Batch-Size                 | 0,525                      | [Inceptionv4.pth](https://drive.google.com/drive/folders/146HRDz-075PTf-pyUQO-1ZrU4X1UQ5L2)                 |
+|Densenet201(U-Net++)                          | 16 Batch-Size                 | 0,511                     | [Densenet201.pth](https://drive.google.com/drive/folders/146HRDz-075PTf-pyUQO-1ZrU4X1UQ5L2)
+|Resnext50_32x4d(U-Net++)                          | 16 Batch-Size                | 0,491                     | [Resnext50_32x4d.pth](https://drive.google.com/drive/u/0/folders/1zQfCouyg3uVd76KNzYpbvrFJ4DGfUPdp)
 
 # Framework
 ---------------------
