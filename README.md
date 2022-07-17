@@ -11,7 +11,7 @@ The DHK 200 Turkey map legends are organized bilingually in accordance with the 
 maps [1].
 
 | Model              | Batch-Size | F-1 Score | Weights | No. Of Params | 
-|:--------------------------:|:------------------:|-------------------------:|-------------------------:|
+|:--------------------------:|:------------------:|-------------------------:|-------------------------:|-------------------------:|
 |Timm-resnest200e(U-Net++)   | 16 Batch-Size      | **0,577**   |      68M      | [Timm-resnest200e.pth](https://drive.google.com/drive/folders/146HRDz-075PTf-pyUQO-1ZrU4X1UQ5L2)                                 
 |Timm-resnest200e(MA-Net)                         | 16 Batch-Size                 | 0,525      |       68M          | [MA-Net timm-resnest200e.pth](https://drive.google.com/drive/folders/146HRDz-075PTf-pyUQO-1ZrU4X1UQ5L2) 
 |Inceptionv4(U-Net++)                          | 16 Batch-Size                 | 0,525         |      54M        | [Inceptionv4.pth](https://drive.google.com/drive/folders/146HRDz-075PTf-pyUQO-1ZrU4X1UQ5L2)                
