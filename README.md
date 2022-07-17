@@ -18,6 +18,16 @@ maps [1].
 |Densenet201(U-Net++)                          | 16 Batch-Size                 | 0,511       |      18M         | [Densenet201.pth](https://drive.google.com/drive/folders/146HRDz-075PTf-pyUQO-1ZrU4X1UQ5L2)
 |Resnext50_32x4d(U-Net++)                          | 16 Batch-Size                | 0,491      |      42M          | [Resnext50_32x4d.pth](https://drive.google.com/drive/u/0/folders/1zQfCouyg3uVd76KNzYpbvrFJ4DGfUPdp)
 
+
+
+| Model              | Batch-Size | F-1 Score | Weights | No. Of Params | 
+|:--------------------------:|:------------------:|-------------------------:|-------------------------:|-------------------------:|
+|Timm-resnest200e(U-Net++)   | 8 Batch-Size      | **0,564**   |      68M      | [Timm-resnest200e.pth](https://drive.google.com/drive/folders/146HRDz-075PTf-pyUQO-1ZrU4X1UQ5L2)                                 
+|inceptionresnetv2  (U-Net++)                        | 8 Batch-Size                 | 0,501      |       68M          | [inceptionresnetv2.pth](https://drive.google.com/drive/folders/146HRDz-075PTf-pyUQO-1ZrU4X1UQ5L2) 
+|densenet201(U-Net++)                          | 8 Batch-Size                 | 0,485         |      54M        | [densenet201.pth](https://drive.google.com/drive/folders/146HRDz-075PTf-pyUQO-1ZrU4X1UQ5L2)                
+|resnext50_32x4d(U-Net++)                          | 8 Batch-Size                 | 0,472     |      18M         | [resnext50_32x4d.pth](https://drive.google.com/drive/folders/146HRDz-075PTf-pyUQO-1ZrU4X1UQ5L2)
+|    efficientnet-b1(U-Net++)                          | 8 Batch-Size                | 0,4542      |      42M          | [efficientnet-b1](https://drive.google.com/drive/u/0/folders/1zQfCouyg3uVd76KNzYpbvrFJ4DGfUPdp)
+
 # Framework
 ---------------------
 ![alt text](figures/framework.png)
