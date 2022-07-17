@@ -3,7 +3,7 @@ This repository contains the code, test patches and weights for the paper [Deep 
 
 # Dataset (Source)
 ---------------------
-[Turkey 1:200k Historical Topographic Maps](http://digitalarchive.mcmaster.ca/islandora/object/macrepo%3A82339)
+[Turkey 1:200k Historical Topographic Maps](https://urbanoccupations.ku.edu.tr/historical-road-types-for-turkey-1940s/)
 
 The historical DHK 200 Turkey map used in this study covers a large area of around
 150,000 square km in northwest Turkey, including the regions of Ankara and Bursa.
@@ -22,9 +22,6 @@ maps [1].
 ---------------------
 ![alt text](figures/framework.png)
 
-# Weights for Inference 
----------------------
-[Drive Link](https://drive.google.com/drive/u/0/folders/1zQfCouyg3uVd76KNzYpbvrFJ4DGfUPdp)
 
 # Models Comparison
 ---------------------
