@@ -3,6 +3,8 @@ This repository contains the code, test patches and weights for the paper [Deep 
 
 # Dataset (Source)
 ---------------------
+You can download the data from the link below
+
 [Turkey 1:200k Historical Topographic Maps](https://urbanoccupations.ku.edu.tr/historical-road-types-for-turkey-1940s/)
 
 The historical DHK 200 Turkey map used in this study covers a large area of around
