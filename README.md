@@ -33,7 +33,7 @@ maps [1].
 ---------------------
 ![alt text](figures/framework.png)
 
-#Outputs
+# Outputs
 ---------------------
 ![alt text](figures/1.png)
 
