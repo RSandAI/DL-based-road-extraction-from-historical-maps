@@ -36,13 +36,13 @@ maps [1].
 ![alt text](figures/framework.png)
 
 
-# Models Comparison
+# Classwise Metrics for Best Model Unet++ Timm-Resnest200e
 ---------------------
-![alt text](figures/comparison.png)
+![alt text](figures/2.png)
 
 Outputs
 ---------------------
-![alt text](figures/resnest200e.png)
+![alt text](figures/1.png)
 
 
 
