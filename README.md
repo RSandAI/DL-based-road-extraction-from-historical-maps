@@ -35,14 +35,15 @@ maps [1].
 ---------------------
 ![alt text](figures/framework.png)
 
+#Outputs
+---------------------
+![alt text](figures/1.png)
 
 # Classwise Metrics for Best Model Unet++ Timm-Resnest200e
 ---------------------
 ![alt text](figures/2.png)
 
-Outputs
----------------------
-![alt text](figures/1.png)
+
 
 
 
