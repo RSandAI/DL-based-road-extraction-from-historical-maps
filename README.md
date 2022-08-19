@@ -38,10 +38,7 @@ maps [1].
 ![alt text](figures/1.png)
 
 # Classwise Metrics for best Models
----------------------
 
-
-             |  
 :-------------------------:|:-------------------------:
 ![alt text](figures/11.png)  |  ![alt text](figures/22.png)
 
