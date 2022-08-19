@@ -39,16 +39,13 @@ maps [1].
 
 # Classwise Metrics for best Models
 
-:-------------------------:|:-------------------------:
-![alt text](figures/11.png)  |  ![alt text](figures/22.png)
+![alt text](figures/11.png)
+![alt text](figures/22.png)
+![alt text](figures/3.png)
+![alt text](figures/4.png)
+![alt text](figures/5.png)
+![alt text](figures/6.png)
 
-           |  
-:-------------------------:|:-------------------------:
-![alt text](figures/3.png)  |  ![alt text](figures/4.png)
-
-            |  
-:-------------------------:|:-------------------------:
-![alt text](figures/5.png)  |  ![alt text](figures/6.png)
 
 
 
