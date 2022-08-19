@@ -38,6 +38,17 @@ maps [1].
 ![alt text](figures/1.png)
 
 # Classwise Metrics for best Models
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![alt text](figures/11.png) |  ![alt text](figures/22.png)
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![]![alt text](figures/3.png)  |  ![alt text](figures/4.png)
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![alt text](figures/5.png)  | ![alt text](figures/6.png)
+
+
 
 ![alt text](figures/11.png)
 ![alt text](figures/22.png)
