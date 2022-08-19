@@ -37,10 +37,14 @@ maps [1].
 ---------------------
 ![alt text](figures/1.png)
 
-# Classwise Metrics for Best Model Unet++ Timm-Resnest200e
+# Classwise Metrics for best Models
 ---------------------
-![alt text](figures/2.png)
-
+![alt text](figures/11.png)
+![alt text](figures/22.png)
+![alt text](figures/3.png)
+![alt text](figures/4.png)
+![alt text](figures/5.png)
+![alt text](figures/6.png)
 
 
 
