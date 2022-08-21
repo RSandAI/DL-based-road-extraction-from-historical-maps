@@ -58,9 +58,8 @@ Apart from main data science libraries, RS-specific libraries such as GDAL, rast
 Citation
 ---------------------
 
-[1] Ekim, B., Sertel, E., & Kabadayı, M. E. (2021). Automatic Road Extraction from Historical Maps Using Deep Learning Techniques: A Regional Case Study of Turkey in a German World War II Map. ISPRS International Journal of Geo-Information, 10(8), 492.
+Avcı C., Sertel E. , Kabadayı M. E. “Deep Learning Based Road Extraction from Historical Maps”, IEEE GEOSCIENCE AND REMOTE SENSING LETTERS,Accepted.
 
-[2]qubvel/segmentation_models.pytorch: Segmentation models with pretrained backbones. PyTorch
 
 Contact Information:
 --------------------
